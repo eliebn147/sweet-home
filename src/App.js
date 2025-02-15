@@ -584,7 +584,7 @@ function App() {
       <div className="image-container">
         <img height={350} src={myLogo} alt="logo" />
         <div className="navbar">
-          Sentence to be written
+          Daily fresh, homemade, and delicious desserts
         </div>
       </div>
       <div className="body-container">
