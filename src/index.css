@@ -22,7 +22,7 @@ body {
 
 .body-container {
   background-image: url("images/background-sweet.png");
-  background-repeat: repeat-y;
+  background-repeat: repeat;
   background-size: contain;
   min-height: 100vh;
   display: flex;
