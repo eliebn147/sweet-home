@@ -1,8 +1,6 @@
 import "./App.css";
 import myLogo from "./images/logo.png";
 import instagramIcon from "./images/instagram.png";
-import facebookIcon from "./images/facebook.png";
-import tiktokIcon from "./images/tik-tok.png";
 import telephoneIcon from "./images/telephone.png";
 
 function App() {
