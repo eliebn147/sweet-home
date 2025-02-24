@@ -39,6 +39,11 @@ function App() {
             description: "",
             price: 1.7,
           },
+          {
+            name: "Kaak el Aarous 12pcs",
+            description: "",
+            price: 6,
+          },
         ],
       },
       {
